@@ -1,5 +1,5 @@
 jac-env/
-.env/
+.env
 
 # Python
 __pycache__/
